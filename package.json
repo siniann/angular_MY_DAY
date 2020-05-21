@@ -25,7 +25,7 @@
     "ngh": "^0.2.12",
     "rxjs": "^5.5.6",
     "zone.js": "^0.8.19",
-    "lodash": ">=4.17.12"
+    "lodash": ">=4.17.13"
 
   },
   "devDependencies": {
